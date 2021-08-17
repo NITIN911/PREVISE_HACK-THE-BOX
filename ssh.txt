@@ -1,0 +1,10 @@
+ssh m4lwhere@10.10.11.104
+
+paswd : ilovecody112235!
+
+userflag : 8685caedcc51fd1387983798d9a15b2a
+
+
+cat /opt/scripts/access_backup.sh
+
+rootflag : 2add41d3c9eed7d2f667b59e0a64766d
